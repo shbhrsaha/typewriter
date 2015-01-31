@@ -27,6 +27,10 @@ function backup () {
       var now = Date.now();
       var fileName = "backups/backup_"+now+".txt";
 
+      if (!data) {
+        return;
+      }
+
       if (data.text == lastBackupData) {
         return;
       }
