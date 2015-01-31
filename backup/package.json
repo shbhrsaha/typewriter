@@ -1,0 +1,15 @@
+{
+  "name": "backup",
+  "version": "1.0.0",
+  "description": "Backs up Typewriter input",
+  "main": "backup.js",
+  "dependencies": {
+    "mongodb": "^1.4.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubhro Saha",
+  "license": "MIT"
+}
