@@ -9,3 +9,7 @@ Typewriter is a Meteor app that brings distraction-free writing to the Kindle. I
 - Open `[your computer's IP address]:3000` in your Kindle's browser
 
 Click on the computer web app's top left corner to start typing. What you type there will now instantly appear on the Kindle. Backups are saved every 15 seconds to the `backup/backups` folder. For the best experience, dim your computer monitor and type on an external keyboard.
+
+## Forks
+
+(2019-04-03) @gwynm made several improvements to the experience, available as a fork here: https://github.com/gwynm/typewriter
